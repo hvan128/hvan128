@@ -60,15 +60,11 @@ I'm **Ngô Hải Văn**, a developer from Vietnam who enjoys building practical,
 
 </div>
 
-## Contribution game
+## Contribution calendar
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hvan128/hvan128/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hvan128/hvan128/output/github-contribution-grid-snake.svg">
-  <img alt="Snake animation eating the GitHub contribution grid" src="https://raw.githubusercontent.com/hvan128/hvan128/output/github-contribution-grid-snake.svg">
-</picture>
+[![Hải Văn's GitHub contribution calendar](https://ghchart.rshah.org/2563EB/hvan128)](https://github.com/hvan128)
 
 ### Thanks for stopping by — let's build something useful.
 
